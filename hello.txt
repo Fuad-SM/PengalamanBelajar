@@ -1,2 +1,3 @@
 test
-Mencoba belajar conflict
+mencoba merge conflict  
+
