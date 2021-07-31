@@ -3,3 +3,4 @@ development
 mencoba merge conflict  
 tgl 31 saya mencoba menambah commit untuk mengerti apa itu squashing
 tambahan untuk mencoba code review
+
