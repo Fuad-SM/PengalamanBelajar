@@ -1,2 +1,4 @@
 test
-Mencoba belajar conflict
+development
+mencoba merge conflict  
+tgl 31 saya mencoba menambah commit untuk mengerti apa itu squashing
